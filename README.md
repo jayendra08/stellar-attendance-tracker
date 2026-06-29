@@ -41,7 +41,7 @@ Stellar-Attendance-Tracker/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Stellar-Attendance-Tracker.git
+git clone https://github.com/jayendra08/Stellar-Attendance-Tracker.git
 ```
 
 2. Navigate to the project directory
@@ -68,10 +68,6 @@ npm start
 http://localhost:3000
 ```
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
 ## 🎯 Future Improvements
 
 * User authentication
@@ -91,4 +87,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **Zeunix**.
+Developed byjayendra08.
