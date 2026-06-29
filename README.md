@@ -1,86 +1,89 @@
-# 📚 Stellar Attendance Tracker
+# ⭐ Stellar Attendance Tracker
 
-A modern attendance tracking system built to simplify attendance management while ensuring transparency and security. This project demonstrates how attendance records can be managed efficiently and can be extended with Stellar blockchain integration for verification.
+A modern and user-friendly web application for efficiently managing and tracking student attendance. Built with a clean interface, this project simplifies attendance management for educational institutions while providing an intuitive experience for both students and administrators.
 
 ## 🚀 Features
 
-- Student registration
-- Mark attendance
-- View attendance history
-- Attendance percentage calculation
-- Search students
-- Responsive user interface
-- Secure data storage
-- Easy to extend with Stellar blockchain
+* 📅 Mark and manage attendance with ease
+* 👨‍🎓 Student attendance records
+* 📊 Attendance tracking and management
+* 🎨 Clean and responsive user interface
+* ⚡ Fast and lightweight application
+* 🔒 Organized and scalable project structure
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
+* HTML5
+* CSS3
+* JavaScript
+* Node.js
+* Express.js
+* EJS
+* Tailwind CSS
 
 ## 📂 Project Structure
 
-```
-attendance-tracker/
-│── client/
-│── server/
-│── models/
-│── routes/
-│── controllers/
-│── public/
-│── package.json
-│── README.md
+```text
+Stellar-Attendance-Tracker/
+├── public/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── views/
+├── routes/
+├── app.js
+├── package.json
+└── README.md
 ```
 
 ## ⚙️ Installation
 
-Clone the repository
+1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/stellar-attendance-tracker.git
+git clone https://github.com/your-username/Stellar-Attendance-Tracker.git
 ```
 
-Navigate to the project
+2. Navigate to the project directory
 
 ```bash
-cd stellar-attendance-tracker
+cd Stellar-Attendance-Tracker
 ```
 
-Install dependencies
+3. Install dependencies
 
 ```bash
 npm install
 ```
 
-Start the server
+4. Start the development server
 
 ```bash
 npm start
 ```
 
-Visit
+5. Open your browser and visit
 
-```
+```text
 http://localhost:3000
 ```
 
-## 🌟 Future Improvements
+## 📸 Screenshots
 
-- Stellar wallet authentication
-- On-chain attendance verification
-- NFT/Token certificates
-- QR Code attendance
-- Email notifications
-- Admin dashboard
-- Analytics
+Add screenshots of your application here.
+
+## 🎯 Future Improvements
+
+* User authentication
+* Attendance analytics
+* Export attendance reports
+* Student search and filtering
+* Dashboard with statistics
+* Mobile-friendly enhancements
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
+Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
 
 ## 📄 License
 
@@ -88,10 +91,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name
-
-GitHub: https://github.com/jayendra08
-
----
-
-⭐ If you found this project useful, don't forget to star the repository!
+Developed by **Zeunix**.
